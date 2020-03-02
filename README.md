@@ -49,13 +49,13 @@ Click on the  "suggest me an activity" button and app suggests the user a random
 
 On selecting save option, the suggested random activity gets saved.
 
-![RandomActivity](https://github.com/NiveditaNeethirajan/Flutter/blob/master/SuggestmeanActivity.png)
+<img src="https://github.com/NiveditaNeethirajan/Flutter/blob/master/SuggestmeanActivity.png" width="250" height="500">
 
 #### Find an Activity (2)
 
 Select the "Help me find an activity" button to let the user select an activity based on their preference in type, price, accessibility and participants.
 
-![FindAnActivity](https://github.com/NiveditaNeethirajan/Flutter/blob/master/LetTheuserfind.png)
+<img src="https://github.com/NiveditaNeethirajan/Flutter/blob/master/LetTheuserfind.png" width="250" height="500">
 
 #### Future Activities (3)
 
@@ -63,13 +63,14 @@ Selecting the "Future Activities" button, the list of saved activities(@1) will 
 
 User has an option to select mutiple activities and complete it
 
-![FutureActivities](https://github.com/NiveditaNeethirajan/Flutter/blob/master/Future.png)
+<img src="https://github.com/NiveditaNeethirajan/Flutter/blob/master/Future.png" width="250" height="500">
+
 
 #### Past Activities (4) 
 
 Selecting the "Past Activities" button, the list of completed activities(@3) will be displayed. 
 
-![PastActivities](https://github.com/NiveditaNeethirajan/Flutter/blob/master/PastActivities.png)
+<img src="https://github.com/NiveditaNeethirajan/Flutter/blob/master/PastActivities.png" width="250" height="500">
 
 #### Location based Activity suggestion (5)
 
